@@ -13,7 +13,7 @@ These details can serve as metrics to measure success.
 ## The Objective
 To seek insights from the data using provided metrics and determine factors that make a movie successful.
 
-## Process Activities
+## Project Activity
 - Data Exploration
 [View Code](https://github.com/Kingston257/Successful-Movies/blob/main/notebook.ipynb)
 
